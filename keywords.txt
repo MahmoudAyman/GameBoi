@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For GameBoi
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+GameBoi	KEYWORD1	GameBoi
+Key	KEYWORD1	Key
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+attach	KEYWORD2
+isPressed	KEYWORD2
+setAction	KEYWORD2
+invoke	KEYWORD2
+loadGame	KEYWORD2
+begin	KEYWORD2
+startGame	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
